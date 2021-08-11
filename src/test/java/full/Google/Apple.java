@@ -8,6 +8,8 @@ public class Apple {
 		System.out.println("afzal new");
 		
 		System.out.println("afzal");
+		
+		System.out.println("zxc");
 
 	}
 
